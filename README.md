@@ -1,2 +1,3 @@
-# node-api
-A simple example of a node.js API created during TTC8430-3003 course at JAMK
+## About The Project
+
+This is a simple execution of a node.js API created for TTC8040-3003 course at JAMK University of Applied Sciences.
